@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Shayak Sarkar 👋
 
-<!--
-**shayak-98/shayak-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **CSE Student** | 💻 Learning Python, C, and DSA  
+🚀 Exploring AI, Arduino & Hackathons  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📂 My Repositories
+- [Python-Learning](https://github.com/shayak-98/Python-Learning) → Codes organized by topic
+- More projects coming soon 🚀
+
+---
+
+## 📊 GitHub Stats
+![Shayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayak-98&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+📧 Email: **sarkarshayak55@gmail.com**  
+🔗 GitHub: [shayak-98](https://github.com/shayak-98) fact: ...
 -->
