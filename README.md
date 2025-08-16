@@ -1,7 +1,6 @@
 # Hi, I'm Shayak Sarkar 👋
 
 🎓 **CSE Student** | 💻 Learning Python, C, and DSA  
-🚀 Exploring AI, Arduino & Hackathons  
 
 ---
 
