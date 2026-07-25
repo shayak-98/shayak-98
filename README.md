@@ -16,23 +16,10 @@
 
 ## 📂 Projects
 
-🔹 [Python-Learning](https://github.com/shayak-98/Python-Learning)  
-→ Organized Python codes by topic (Loops, Functions, OOP, etc.)
+🔹 [IOT](https://github.com/shayak-98/AGRO-VATORS.git)  
+→ Smart farming rover 
 
-🔹 More powerful projects coming soon 🚀  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shayak-98&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayak-98&layout=compact&theme=tokyonight" />
-</p>
-
+🔹 More powerful projects coming soon 🚀 
 ---
 
 ## 🔥 Contribution Streak
