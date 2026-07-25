@@ -16,7 +16,7 @@
 
 ## 📂 Projects
 
-🔹 [IOT](https://github.com/shayak-98/AGRO-VATORS.git)  
+🔹 [Agro-Vators](https://github.com/shayak-98/AGRO-VATORS.git)  
 → Smart farming rover 
 
 🔹 More powerful projects coming soon 🚀 
