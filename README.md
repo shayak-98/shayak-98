@@ -22,12 +22,6 @@
 🔹 More powerful projects coming soon 🚀 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shayak-98&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🌐 Connect with Me
