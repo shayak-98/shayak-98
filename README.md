@@ -7,10 +7,10 @@
 ---
 
 ## 🧠 Tech Stack
-💻 Languages: Python, C  
+💻 Languages: Python, C, javascript , java
 📚 Concepts: Data Structures, Algorithms  
 🔧 Tools: Git, GitHub, VS Code  
-🌱 Currently Improving: DSA & Project Building  
+🌱 Currently Learning: DSA & Project Building,Full Stack development  
 
 ---
 
