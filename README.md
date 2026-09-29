@@ -1,95 +1,96 @@
-# SHAYAK SARKAR
+# Hi, I'm Shayak Sarkar 👋
 
-### Computer Science & Engineering Student | Software Developer
+### CSE Student | AI & ML | Full-Stack Development | IoT & Embedded Systems
 
-I am a Computer Science and Engineering student focused on building
-practical software, web applications, AI-powered systems, and IoT projects.
+I'm a Computer Science & Engineering student interested in building practical systems that combine **software, AI, hardware, and the web**.
 
-Currently focused on:
-
-- Data Structures & Algorithms
-- Java and Python
-- Full-Stack Web Development
-- Backend Development and APIs
-- Artificial Intelligence and Computer Vision
-- IoT and Embedded Systems
+I enjoy turning ideas into working projects — from embedded systems and IoT prototypes to AI-powered applications and full-stack web platforms.
 
 ---
 
-## ABOUT ME
+## 🏆 Achievements
 
-I enjoy turning ideas into working software and building projects that
-combine different areas of computer science.
+### 🥇 1st Place — Internal Smart India Hackathon (SIH) 2026
 
-My current focus is strengthening my programming fundamentals,
-problem-solving ability, backend development skills, and understanding
-of software architecture.
+**Hardware Category | Techno Bengal Institute of Technology**
 
-I am particularly interested in projects involving:
+Our team **AGRO-VICE** secured **1st place in the Hardware category** at the Internal Smart India Hackathon (SIH) 2026.
 
-- Software Development
-- Artificial Intelligence
-- Computer Vision
-- IoT and Embedded Systems
-- Full-Stack Applications
-- Real-World Automation
+The project is an **AI-powered smart farming rover** integrating IoT, embedded systems, sensors, computer vision, AI, backend services, and a web dashboard.
 
 ---
 
-## TECH STACK
+### 🏆 Winner — Electronovation College Hardware Competition
+
+**Medi Nova**
+
+Won the **Electronovation College Hardware Competition** organized by **Medi Nova**, gaining hands-on experience in hardware development, engineering problem-solving, prototyping, and team collaboration.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Programming Languages
 
-![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 
 ### Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend and APIs
+### Backend & APIs
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Tools and Platforms
+### Hardware & IoT
 
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-111111?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+
+- Sensors and actuators
+- Embedded systems
+- IoT communication
+- Motor control
+- Robotics
+- Hardware-software integration
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## CURRENTLY LEARNING
+## 📚 Currently Learning
 
 | Area | Focus |
 |---|---|
-| DSA | Arrays, Linked Lists, Trees, Graphs, Algorithms |
-| Java | OOP, Collections, Problem Solving |
-| Python | OOP, APIs, Backend Development |
-| Web Development | JavaScript, React, Full-Stack Development |
-| Backend | Flask, REST APIs, Database Integration |
-| AI | Computer Vision and Machine Learning |
+| **DSA** | Arrays, Linked Lists, Trees, Graphs, Algorithms |
+| **Java** | OOP, Collections, Problem Solving |
+| **Python** | OOP, APIs, Backend Development |
+| **Web Development** | JavaScript, React, Full-Stack Development |
+| **Backend** | Flask, REST APIs, Database Integration |
+| **AI** | Computer Vision & Machine Learning |
 
 ---
 
-## FEATURED PROJECTS
+## 🚀 Featured Projects
 
-### AGRO-VATORS
+### 🌱 AGRO-VICE
 
 **AI-Powered Smart Farming Rover**
 
-An IoT and AI-based agricultural rover designed for real-time field
-monitoring, crop analysis, and intelligent farming assistance.
+An IoT and AI-based agricultural rover designed for real-time field monitoring, crop analysis, and intelligent farming assistance.
 
-**Core Components**
+#### Core Components
 
 - ESP32-based hardware system
 - Environmental and soil sensors
@@ -101,23 +102,26 @@ monitoring, crop analysis, and intelligent farming assistance.
 - Automated irrigation logic
 - GPS-based field information
 
-**Technology**
+#### Achievement
 
-`ESP32` `Python` `Flask` `Computer Vision` `AI` `IoT`
-`JavaScript` `HTML` `CSS`
+🥇 **1st Place — Internal SIH 2026**  
+**Hardware Category | Techno Bengal Institute of Technology**
 
-[View Repository](https://github.com/shayak-98/AGRO-VATORS)
+#### Technologies
+
+`ESP32` `Python` `Flask` `Computer Vision` `AI` `IoT` `JavaScript` `HTML` `CSS`
+
+🔗 [View Repository](https://github.com/shayak-98/AGRO-VATORS)
 
 ---
 
-### CivicGuard
+### 🏙️ CivicGuard
 
 **Civic Issue Reporting Platform**
 
-A web application designed to allow citizens to report civic issues
-and track their status through a centralized interface.
+A web application designed to allow citizens to report civic issues and track their status through a centralized interface.
 
-**Features**
+#### Features
 
 - Issue reporting
 - Image upload
@@ -128,25 +132,20 @@ and track their status through a centralized interface.
 - Issue categorization
 - Data visualization
 
-**Technology**
+#### Technologies
 
 `React` `JavaScript` `Tailwind CSS`
 
 ---
 
-## ENGINEERING INTERESTS
+## 🎯 Engineering Interests
 
 ```text
 Software Development
-        |
-        +---- Backend Systems
-        |
-        +---- Full-Stack Applications
-        |
-        +---- Artificial Intelligence
-        |
-        +---- Computer Vision
-        |
-        +---- IoT / Embedded Systems
-        |
-        +---- Data Structures & Algorithms
+│
+├── Backend Systems
+├── Full-Stack Applications
+├── Artificial Intelligence
+├── Computer Vision
+├── IoT / Embedded Systems
+└── Data Structures & Algorithms
