@@ -1,6 +1,6 @@
 # Hi, I'm Shayak Sarkar 👋
 
-### CSE Student | AI & ML | Full-Stack Development | IoT & Embedded Systems
+### CSE Student |CSE| Full-Stack Development | IoT & Embedded Systems
 
 I'm a Computer Science & Engineering student interested in building practical systems that combine **software, AI, hardware, and the web**.
 
